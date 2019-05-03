@@ -1,0 +1,41 @@
+body {
+    font-family: monospace;
+    font-size: 15px;
+    background: black;
+    
+}
+
+h, h1, h2, h3 {
+    color: whitesmoke; 
+}
+
+p, p1, p2, p3 {
+   color: green; 
+}
+
+
+/* ctrl e for drop down color menu */ 
+
+   <style>
+a:link {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: purple;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+
